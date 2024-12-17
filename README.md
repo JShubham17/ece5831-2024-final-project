@@ -94,8 +94,8 @@ The performance was evaluated using metrics like relevance, visual fidelity, and
 ---
 
 ## Contributors  
-- **Adil Qureshi**: Speech-to-text integration and testing  
-- **Shubham Jagtap**: Fine-tuning Stable Diffusion and model evaluation  
+- **Adil Qureshi**: Fine-tuning Stable Diffusion and model evaluation  
+- **Shubham Jagtap**: Speech-to-text integration and testing
 - **Jaskirat Sudan**: Dataset creation and image generation analysis  
 
 ---
@@ -108,9 +108,10 @@ The performance was evaluated using metrics like relevance, visual fidelity, and
 ---
 
 ## Project Attachments  
-- **Workflow Diagrams**: Visualizing the system architecture.  
-- **Sample Outputs**: Images generated from speech inputs.  
-- **Training Logs**: Data and metrics from model fine-tuning.  
+- **Presentation Link**: 
+- **Project Demo Link**: 
+- **Dataset Link**: 
+- **Project Documents Link**:
 
 ---
 
