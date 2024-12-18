@@ -105,6 +105,13 @@ The performance was evaluated using metrics like relevance, visual fidelity, and
 - Implement advanced metrics for cross-modal evaluation.  
 - Integrate the model into augmented and virtual reality applications.  
 
+## How to Run
+- To run the `final_project.ipynb` file for inference in Google Colab, follow these steps:
+### 1. Mount Google Drive
+Open the notebook and run the Drive mounting cell:
+ ```python
+from google.colab import drive
+drive.mount('/content/drive')
 ---
 
 ## Project Attachments  
